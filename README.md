@@ -1,1 +1,1 @@
-# Parallel
+# Parallel package in R
